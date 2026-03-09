@@ -30,9 +30,9 @@ Dragonpilot社区暂无发布硬件计划。
 
 openpilot 安装、使用过程中需要的软件、资料，或者疑问请参考：
 
-- [Openpilot 中文 Wiki](https://doc.sdut.me/)
-- [Openpilot 软件下载站](https://d.sdut.me/)
-- [Openpilot 国内镜像](https://doc.sdut.me/mirror.html)
+- [Openpilot 中文 Wiki](https://openpilot.daydayup365.top/)
+- [Openpilot 软件下载站](https://openpilot.daydayup365.top/)
+- [Openpilot 国内镜像](https://openpilot.daydayup365.top//mirror.html)
 - [[Bilibili] Openpilot-China](https://space.bilibili.com/9843793)
 - [[YouTube] Openpilot China](https://www.youtube.com/channel/UC79hb9uL4o3YsqFLnFZVzbA)
 
