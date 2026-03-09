@@ -60,6 +60,6 @@ alt="QQ群openpilot辅助驾驶AI人工智能大众奥迪本田特斯拉" />
 
 ### 友情链接
 
-- [dragonpilot 中文社区](http://dragonpilot.cn/)
+- [dragonpilot 中文社区](https://openpilot.daydayup365.top/)
 
 
